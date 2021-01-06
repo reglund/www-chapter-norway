@@ -1,6 +1,6 @@
 ### Leaders
 
-* Asbjørn Thorsen
+* Asbjørn Thorsen (mailto:reglund.thorsen@gmail.com)
 * Eivind Arvesen
 * [Erlend Oftedal](mailto:erlend.oftedal@owasp.org)
 * Jostein Tveit
